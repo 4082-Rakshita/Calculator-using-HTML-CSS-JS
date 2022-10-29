@@ -1,0 +1,48 @@
+table{
+    margin-left: 40%;
+    margin-top: 70px;
+ }
+ body{
+    background-image: url("cal3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+ }
+ #hd{
+    background-color: black;
+    color: white;
+ }
+ table,th,td{
+     border: 5px solid black;
+ }
+ td,th{
+     font-size: 30px;
+     text-align: center;
+    /* text-decoration: black; */
+ }
+h1{
+    text-align: center;
+}
+
+.main{
+    size: 40px;
+}
+input[type=button] {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    background-color:black;
+    color:white;
+    border: solid black 0.5px;
+    width: 70px;
+    border-radius: 5px;
+    height: 70px;
+    outline: none;
+}
+input[type = text] {
+    width: 100%;
+    padding: 10px 15px;
+    margin: 0px 0px;
+    box-sizing: border-box;
+    font-size: 22px;
+    font-style: bold;
+ }
